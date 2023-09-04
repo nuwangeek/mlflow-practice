@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-End-DeepLearning-Projects/mlflow-practice/mlruns/0/a110422cfdbc43c088e11bb52c62238a/artifacts
+end_time: 1693823567814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a110422cfdbc43c088e11bb52c62238a
+run_name: serious-shrike-772
+run_uuid: a110422cfdbc43c088e11bb52c62238a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693823565208
+status: 3
+tags: []
+user_id: charith.bimsara_root

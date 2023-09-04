@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-End-DeepLearning-Projects/mlflow-practice/mlruns/0/fe73148b66b443e7a9a2a60176d3d665/artifacts
+end_time: 1693617176327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe73148b66b443e7a9a2a60176d3d665
+run_name: abundant-goose-951
+run_uuid: fe73148b66b443e7a9a2a60176d3d665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693617173600
+status: 3
+tags: []
+user_id: charith.bimsara_root

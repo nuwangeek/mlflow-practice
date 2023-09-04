@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-End-DeepLearning-Projects/mlflow-practice/mlruns/0/6ec8d1f505624bc48f27d0835e98add9/artifacts
+end_time: 1693823307411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ec8d1f505624bc48f27d0835e98add9
+run_name: painted-bird-980
+run_uuid: 6ec8d1f505624bc48f27d0835e98add9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693823304303
+status: 3
+tags: []
+user_id: charith.bimsara_root
